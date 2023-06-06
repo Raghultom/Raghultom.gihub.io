@@ -1,0 +1,39 @@
+.div1{
+    
+    height: 300px;
+    width: 200px;
+    /* border: 1px solid black; */
+    margin-top: 20PX;
+    /* background-color: white; */
+    margin-left: 1000px;
+ 
+    
+   
+    
+}
+#div1{
+color: pale whitesmoke;
+
+}
+.bodi{
+    background-image: url(./c6.jpeg);
+    background-size: cover;
+
+}
+#fname{
+   border: 1px solid black ;
+}
+#btn{
+    margin-left: 60px;
+    background-color: palevioletred;
+    font-family: 'Times New Roman', Times, serif;
+}
+.icon1{
+    margin-left: 61px;
+}
+#home{
+    color: whitesmoke;
+    background-color: transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+}
